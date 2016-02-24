@@ -1,0 +1,9 @@
+{
+  "apiKey": "%s(apiKey)",
+  "apiUrl": "%s(apiUrl)",
+  "to": [
+    {
+      "email": "%s(toEmail)"
+    }
+  ]
+}
