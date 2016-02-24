@@ -1,4 +1,4 @@
 {
-    "key": "%s(apiKey)",
-    "address": "%s(fromEmail)"
+  "key": "%s(apiKey)",
+  "address": "%s(fromEmail)"
 }

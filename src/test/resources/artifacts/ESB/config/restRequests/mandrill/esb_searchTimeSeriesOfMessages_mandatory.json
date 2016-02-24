@@ -1,4 +1,4 @@
 {
-    "apiKey": "%s(apiKey)",
-    "apiUrl": "%s(apiUrl)"
+  "apiKey": "%s(apiKey)",
+  "apiUrl": "%s(apiUrl)"
 }

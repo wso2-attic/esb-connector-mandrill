@@ -1,4 +1,4 @@
 {
-    "apiKey": "INVALID",
-    "apiUrl": "%s(apiUrl)"
+  "apiKey": "INVALID",
+  "apiUrl": "%s(apiUrl)"
 }

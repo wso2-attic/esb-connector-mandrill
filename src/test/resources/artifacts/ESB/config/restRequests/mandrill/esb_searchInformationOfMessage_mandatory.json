@@ -1,5 +1,5 @@
 {
-    "apiKey": "%s(apiKey)",
-    "apiUrl": "%s(apiUrl)",
-    "id": "%s(emailIdMandatory)"
+  "apiKey": "%s(apiKey)",
+  "apiUrl": "%s(apiUrl)",
+  "id": "%s(emailIdMandatory)"
 }

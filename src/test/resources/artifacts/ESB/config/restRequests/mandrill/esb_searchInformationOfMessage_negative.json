@@ -1,5 +1,5 @@
 {
-    "apiKey": "%s(apiKey)",
-    "apiUrl": "%s(apiUrl)",
-    "id": "INVALID"
+  "apiKey": "%s(apiKey)",
+  "apiUrl": "%s(apiUrl)",
+  "id": "INVALID"
 }
