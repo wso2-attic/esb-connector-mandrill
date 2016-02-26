@@ -134,6 +134,12 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
+    <scm>
+        <connection>scm:git:https://github.com/wso2-extensions/esb-connector-mandrill.git</connection>
+        <url>https://github.com/wso2-extensions/esb-connector-mandrill.git</url>
+        <developerConnection>scm:git:https://github.com/wso2-extensions/esb-connector-mandrill</developerConnection>
+        <tag>HEAD</tag>
+    </scm>
     <build>
         <plugins>
             <plugin>
